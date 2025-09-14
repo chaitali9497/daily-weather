@@ -3,7 +3,7 @@
 
 
 
-**DailyWeather - Weather app** 
+# DailyWeather - Weather app
 
 <br><br><br>
 
