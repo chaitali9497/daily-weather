@@ -1,24 +1,13 @@
-**Assignment:**
 
- **DailyWeather - Weather app** 
-
-\
-\
-\
-\
+![App logo](./src/icons/weather_logo.png)
 
 
-        ********
 
-\
-\
-\
+**DailyWeather - Weather app** 
+
 
 
 PROJECT OVERVIEW :
-
-\
-\
 
 
 “**DailyWeather**” is a Weather App, Built as an ‘Progressive Web App’ . This Application is deployed in Netlify and can be installed as an app by going through the link. The app is fully designed/tested for Web & Mobile responsive.
@@ -55,10 +44,6 @@ This Web-App comprises of the following functionalities: - 
 
 - Handled API errors gracefully by displaying appropriate error messages to users.
 
-\
-\
-\
-
 
          Github open source : <https://github.com/chaitali9497/daily-weather>   
 
@@ -66,12 +51,11 @@ This Web-App comprises of the following functionalities: - 
 
          Design inspiration : <https://dribbble.com/shots/25341218-WeatherJ>   
 
-\
 
 
 PROJECT STRUCTURE :
 
-![Project Flow](./src/images/project-structure.png)
+
 
 
 DAILY-WEATHER-APP/
@@ -120,37 +104,61 @@ DAILY-WEATHER-APP/
 
 └── README.md              
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
 
 
 PROJECT FLOW :
 
-\
-\
-\
+![Project Flow](./src/images/project-structure.png)
 
 
 APP USER INTERFACE :
 
-\
-\
-\
-\
-\
-\
-\
+![Landing Page](./src/images/landing-page.png)
+
+
+
+![Mobile View 1](./src/images/mobile-view-1.png)
+
+
+![Mobile View 2](./src/images/mobile-view-2.png)
+
+
+![Auto suggestions](./src/images/autosuggestions.png)
+
+
+![Temperature toggle](./src/images/toggle-temp.png)
+
+
+![Extreme weather](./src/images/extreme-weather.png)
+
+
+![Auto suggestions](./src/images/autosuggestions.png)
+
+
+![Forecast web](./src/images/forecast-web.png)
+
+
+![Forecast mobile](./src/images/forecast-mobile.png)
+
+
+![Weather attributes](./src/images/weather-attributes.png)
+
+
+![Sunrise Sunset](./src/images/sunrise-sunset.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
                                                                                 
