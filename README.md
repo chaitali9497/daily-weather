@@ -5,10 +5,8 @@
 
 **DailyWeather - Weather app** 
 
-/
-/
-/
-/
+<br><br><br>
+
 
 PROJECT OVERVIEW :
 
@@ -54,10 +52,7 @@ This Web-App comprises of the following functionalities: - 
 
          Design inspiration : <https://dribbble.com/shots/25341218-WeatherJ>   
 
-/
-/
-/
-/
+<br><br><br>
 
 PROJECT STRUCTURE :
 
@@ -111,10 +106,7 @@ DAILY-WEATHER-APP/
 └── README.md              
 
 
-/
-/
-/
-/
+<br><br><br>
 
 
 PROJECT FLOW :
@@ -122,10 +114,7 @@ PROJECT FLOW :
 ![Project Flow](./src/images/project-structure.png)
 
 
-/
-/
-/
-/
+<br><br><br>
 
 
 APP USER INTERFACE :
